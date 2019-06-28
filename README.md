@@ -1,5 +1,9 @@
 # 1 About
-This repository is the source code for the epic length [Build Youtube in React](https://productioncoder.com/build-youtube-in-react-part-1/) tutorial series provided by [productioncoder.com](https://productioncoder.com).
+This is a fork of the well-made [Build Youtube in React](https://productioncoder.com/build-youtube-in-react-part-1/) tutorial series provided by [productioncoder.com](https://productioncoder.com).
+
+As suggested at the end of his experiment, I will attempt to dissect this project and change it from redux to react-state + context.
+
+This is my first major project. Feel free to add your recommendations.
 
 # 2 Demo
 **[Please watch the demo on Youtube](https://www.youtube.com/watch?v=E7wJTI-1dvQ)**
@@ -85,9 +89,7 @@ This application includes the major features of Youtube such as
 
 # 7 Used technologies
 * [React / create-react-app](https://github.com/facebook/create-react-app)
-* [Redux](https://redux.js.org/)
-* [Redux-saga](https://redux-saga.js.org/)
-* [Redux-reselect](https://github.com/reduxjs/reselect)
+
 * [Jest](https://jestjs.io/)
 * [Enzyme](https://airbnb.io/enzyme/)
 * [Semantic UI](https://react.semantic-ui.com/)
